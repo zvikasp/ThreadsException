@@ -10,6 +10,7 @@ class MyException2 extends Exception {
 	@Override
 	public String toString() {
 		return ("MyException Occurred:" + str1);
+		// jjj
 	}
 }
 
